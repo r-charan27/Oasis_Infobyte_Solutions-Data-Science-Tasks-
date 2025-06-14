@@ -81,7 +81,50 @@ Predict how many products a business will sell based on advertising spend and cu
 Help businesses understand the ROI of their marketing campaigns and plan future strategies.
 
 ---
+## 🎥 Demo Videos
 
+All projects have a corresponding video demo posted on [LinkedIn](https://www.linkedin.com) explaining the implementation, results, and model performance.
+
+---
+
+## 🎥 Demo Videos
+
+| Task No. | Project Title                  | LinkedIn Demo Video |
+|----------|--------------------------------|----------------------|
+| Task 1   | 🎬 Movie Genre Classification  | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-internship-activity-7339361898611560450-ZZ0V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 2   | 💳 Credit Card Fraud Detection | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-frauddetection-activity-7339363379259523072-pgmh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 3   | 📉 Customer Churn Prediction   | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-internship-activity-7339364273288093697-NoSc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 4   | 💬 Spam SMS Detection          | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-spamfilter-activity-7339364520240271362-bKZ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 5   | ✍️ Handwritten Text Generation | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-deeplearning-rnn-activity-7339365018871701505-8uOS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+
+
+---
+## 🙏 Acknowledgment
+
+Big thanks to **CodSoft** for providing this opportunity to explore core machine learning concepts through hands-on projects.
+🔗 [Visit CodSoft on LinkedIn](https://www.linkedin.com/company/codsoft/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BSEs9OP5LQaaL4k26xzw%2FBA%3D%3D)
+---
+
+## 🏢 About CodSoft
+
+This internship and all projects were completed as part of the **CodSoft Machine Learning Internship**.
+
+🔗 [Visit CodSoft on LinkedIn](https://www.linkedin.com/company/codsoft/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BSEs9OP5LQaaL4k26xzw%2FBA%3D%3D)
+Emailid :contact@codsoft.in
+---
+My experience with CodSoft
+https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_my-experience-with-codsoft-participating-activity-7339543542995800064-vyCi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw
+---
+## 📬 Connect With Me
+
+**[MUMMADI RAMCHRAN]**  
+📧 Email: rcmummadi@gmail.com 
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ramcharan-mummadi-5973a72a3)
+
+---
+
+## 🏷️ Hashtags
+#codsoft #machinelearning #internship #AI #deeplearning #mlprojects #python
 ## 🛠 Technologies Used
 
 - Python 3.x
