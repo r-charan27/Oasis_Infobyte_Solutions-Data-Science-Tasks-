@@ -101,7 +101,7 @@ All projects have a corresponding video demo posted on [LinkedIn](https://www.li
 ---
 ## 🙏 Acknowledgment
 
-Big thanks to **Osasis Infobyte Solutions** for providing this opportunity to explore core machine learning concepts through hands-on projects.
+Big thanks to **Osasis Infobyte Solutions** for providing this opportunity to explore core DataScience concepts through hands-on projects.
 🔗 [Visit  Osasis Infobyte Solutions on LinkedIn](https://www.linkedin.com/company/oasis-infobyte )
 ---
 
