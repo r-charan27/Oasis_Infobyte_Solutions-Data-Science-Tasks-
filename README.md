@@ -91,11 +91,11 @@ All projects have a corresponding video demo posted on [LinkedIn](https://www.li
 
 | Task No. | Project Title                  | LinkedIn Demo Video |
 |----------|--------------------------------|----------------------|
-| Task 1   | 🎬 Movie Genre Classification  | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-internship-activity-7339361898611560450-ZZ0V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
-| Task 2   | 💳 Credit Card Fraud Detection | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-frauddetection-activity-7339363379259523072-pgmh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
-| Task 3   | 📉 Customer Churn Prediction   | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-internship-activity-7339364273288093697-NoSc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
-| Task 4   | 💬 Spam SMS Detection          | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-spamfilter-activity-7339364520240271362-bKZ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
-| Task 5   | ✍️ Handwritten Text Generation | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-deeplearning-rnn-activity-7339365018871701505-8uOS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 1   | 🌸 Iris Flower Classification   | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-internship-activity-7339361898611560450-ZZ0V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 2   | 📉 Unemployment Rate Analysis  | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-frauddetection-activity-7339363379259523072-pgmh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 3   | 🚗💸 Car Price Prediction    | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-internship-activity-7339364273288093697-NoSc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 4   | 📬🚫 Email Spam Detection          | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-spamfilter-activity-7339364520240271362-bKZ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 5   | 📦📊 Sales Prediction  | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-deeplearning-rnn-activity-7339365018871701505-8uOS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
 
 
 ---
