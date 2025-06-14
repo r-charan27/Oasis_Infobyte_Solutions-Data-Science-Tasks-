@@ -91,11 +91,11 @@ All projects have a corresponding video demo posted on [LinkedIn](https://www.li
 
 | Task No. | Project Title                  | LinkedIn Demo Video |
 |----------|--------------------------------|----------------------|
-| Task 1   | 🌸 Iris Flower Classification   | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-internship-activity-7339361898611560450-ZZ0V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
-| Task 2   | 📉 Unemployment Rate Analysis  | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-frauddetection-activity-7339363379259523072-pgmh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
-| Task 3   | 🚗💸 Car Price Prediction    | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-internship-activity-7339364273288093697-NoSc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
-| Task 4   | 📬🚫 Email Spam Detection          | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-machinelearning-spamfilter-activity-7339364520240271362-bKZ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
-| Task 5   | 📦📊 Sales Prediction  | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_codsoft-deeplearning-rnn-activity-7339365018871701505-8uOS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 1   | 🌸 Iris Flower Classification   | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_oasis-infobyte-task-1-iris-flower-classification-activity-7339689308037029889-m6jf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 2   | 📉 Unemployment Rate Analysis  | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_oasis-infobyte-task-2-unemployment-rate-activity-7339692952388063232-01yN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 3   | 🚗💸 Car Price Prediction    | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_oasis-infobyte-task-3-car-price-prediction-activity-7339693229241528320-etT8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 4   | 📬🚫 Email Spam Detection          | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_oasis-infobyte-task-4-email-spam-detection-activity-7339693530912608256-UEOP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
+| Task 5   | 📦📊 Sales Prediction  | [Watch on LinkedIn](https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_oasis-infobyte-task-5-sales-prediction-activity-7339694350148300801-6chn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw) |
 
 
 ---
