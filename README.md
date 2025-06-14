@@ -101,19 +101,19 @@ All projects have a corresponding video demo posted on [LinkedIn](https://www.li
 ---
 ## 🙏 Acknowledgment
 
-Big thanks to **CodSoft** for providing this opportunity to explore core machine learning concepts through hands-on projects.
-🔗 [Visit CodSoft on LinkedIn](https://www.linkedin.com/company/codsoft/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BSEs9OP5LQaaL4k26xzw%2FBA%3D%3D)
+Big thanks to **Osasis Infobyte Solutions** for providing this opportunity to explore core machine learning concepts through hands-on projects.
+🔗 [Visit  Osasis Infobyte Solutions on LinkedIn](https://www.linkedin.com/company/oasis-infobyte )
 ---
 
-## 🏢 About CodSoft
+## 🏢 About Osasis Infobyte Solutions
 
-This internship and all projects were completed as part of the **CodSoft Machine Learning Internship**.
+This internship and all projects were completed as part of the **Osasis Infobyte Solutions DataScience Internship**.
 
-🔗 [Visit CodSoft on LinkedIn](https://www.linkedin.com/company/codsoft/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BSEs9OP5LQaaL4k26xzw%2FBA%3D%3D)
-Emailid :contact@codsoft.in
+🔗 [Visit Osasis Infobyte Solutions on LinkedIn](https://www.linkedin.com/company/oasis-infobyte)
+Emailid :contact@oasisinfobyte.in
 ---
-My experience with CodSoft
-https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_my-experience-with-codsoft-participating-activity-7339543542995800064-vyCi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk08IMBgtVhiLfvseThCHsaIMJ-AW1t6zw
+My experience with Osasis Infobyte Solutions
+
 ---
 ## 📬 Connect With Me
 
@@ -124,7 +124,8 @@ https://www.linkedin.com/posts/ramcharan-mummadi-5973a72a3_my-experience-with-co
 ---
 
 ## 🏷️ Hashtags
-#codsoft #machinelearning #internship #AI #deeplearning #mlprojects #python
+#oasis_infobyte_solutions #DataScience #internship #AI #NLP #DataScience projects #python
+---
 ## 🛠 Technologies Used
 
 - Python 3.x
