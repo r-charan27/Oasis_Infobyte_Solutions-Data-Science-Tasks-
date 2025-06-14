@@ -1,5 +1,4 @@
 # Oasis_Infobyte_Solutions-Data-Science-Tasks-
-# Oasis_Infobyte_Solutions-Data-Science-Tasks-
 # 🤖 Data science Collection
 This contains of the tasks which are completed by me assigned by OasisInfotechSolutions
 
