@@ -111,8 +111,6 @@ This internship and all projects were completed as part of the **Osasis Infobyte
 
 🔗 [Visit Osasis Infobyte Solutions on LinkedIn](https://www.linkedin.com/company/oasis-infobyte)
 Emailid :contact@oasisinfobyte.in
----
-My experience with Osasis Infobyte Solutions
 
 ---
 ## 📬 Connect With Me
