@@ -117,7 +117,7 @@ My experience with Osasis Infobyte Solutions
 ---
 ## 📬 Connect With Me
 
-**[MUMMADI RAMCHRAN]**  
+**[MUMMADI RAMCHARAN]**  
 📧 Email: rcmummadi@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ramcharan-mummadi-5973a72a3)
 
